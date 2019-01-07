@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+It is a demo project build while take Mosh's React course. https://codewithmosh.com
+
 ## Available Scripts
 
 In the project directory, you can run:
